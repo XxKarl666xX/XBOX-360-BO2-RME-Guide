@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "restToOffset/4.2.0": {
+        "runtime": {
+          "restToOffset.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "restToOffset/4.2.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

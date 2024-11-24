@@ -1,0 +1,17 @@
+C:\Users\LULE2\source\repos\restToOffset\restToOffset\bin\Debug\net8.0-windows\restToOffset.exe
+C:\Users\LULE2\source\repos\restToOffset\restToOffset\bin\Debug\net8.0-windows\restToOffset.deps.json
+C:\Users\LULE2\source\repos\restToOffset\restToOffset\bin\Debug\net8.0-windows\restToOffset.runtimeconfig.json
+C:\Users\LULE2\source\repos\restToOffset\restToOffset\bin\Debug\net8.0-windows\restToOffset.dll
+C:\Users\LULE2\source\repos\restToOffset\restToOffset\bin\Debug\net8.0-windows\restToOffset.pdb
+C:\Users\LULE2\source\repos\restToOffset\restToOffset\obj\Debug\net8.0-windows\restToOffset.Form1.resources
+C:\Users\LULE2\source\repos\restToOffset\restToOffset\obj\Debug\net8.0-windows\restToOffset.csproj.GenerateResource.cache
+C:\Users\LULE2\source\repos\restToOffset\restToOffset\obj\Debug\net8.0-windows\restToOffset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LULE2\source\repos\restToOffset\restToOffset\obj\Debug\net8.0-windows\restToOffset.AssemblyInfoInputs.cache
+C:\Users\LULE2\source\repos\restToOffset\restToOffset\obj\Debug\net8.0-windows\restToOffset.AssemblyInfo.cs
+C:\Users\LULE2\source\repos\restToOffset\restToOffset\obj\Debug\net8.0-windows\restToOffset.csproj.CoreCompileInputs.cache
+C:\Users\LULE2\source\repos\restToOffset\restToOffset\obj\Debug\net8.0-windows\restToOffset.dll
+C:\Users\LULE2\source\repos\restToOffset\restToOffset\obj\Debug\net8.0-windows\refint\restToOffset.dll
+C:\Users\LULE2\source\repos\restToOffset\restToOffset\obj\Debug\net8.0-windows\restToOffset.pdb
+C:\Users\LULE2\source\repos\restToOffset\restToOffset\obj\Debug\net8.0-windows\restToOffset.genruntimeconfig.cache
+C:\Users\LULE2\source\repos\restToOffset\restToOffset\obj\Debug\net8.0-windows\ref\restToOffset.dll
+C:\Users\LULE2\source\repos\restToOffset\restToOffset\obj\Debug\net8.0-windows\restToOffset.Properties.Resources.resources
